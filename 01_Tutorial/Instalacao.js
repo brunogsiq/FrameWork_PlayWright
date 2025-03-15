@@ -2,6 +2,8 @@
 Instalação poderá ser realizada através do site da desenvolvedora do framework
         https://playwright.dev/docs/intro
 
+    0 - npm init --yes
+
     1 - Comando de Instalação
         npm init playwright@latest
 
